@@ -12,3 +12,5 @@ Padronizar mensagens de commit para melhorar a organização, clareza e manuten�
 - feat(api): renomeia campo userName para fullName
 
 BREAKING CHANGE: campo userName removido da API, necessário ajuste no app mobile
+
+atualização1.
